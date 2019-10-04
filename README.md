@@ -29,3 +29,9 @@
 DAY 9 +8 : CVND
 
 Continue studying in lesson 5 and working in my github 
+
+Day 10 :
+
+    Review Pytorch Project Structure.
+    Working on my Github
+    Writing a research paper
