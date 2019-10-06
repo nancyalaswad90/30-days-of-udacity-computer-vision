@@ -20,18 +20,23 @@
 ![image](https://user-images.githubusercontent.com/36210723/66170983-37886000-e64f-11e9-99c1-1fd91d1aa370.png)
 
 
+DAY 8 : 
+
+  - Continue studying in lesson 5 
+  - working in my github 
 
 
+DAY 9  :
 
-
-
-
-DAY 9 +8 : CVND
-
-Continue studying in lesson 5 and working in my github 
+  - Continue studying in lesson 5 
+  - working in my github 
+  - working in my LinkedIn profile 
 
 Day 10 :
 
-    Review Pytorch Project Structure.
-    Working on my Github
-    Writing a research paper
+   - Submit my first Project .
+   - Submit my LinkedIn Project .
+   -  Working on my Github
+   
+
+    
