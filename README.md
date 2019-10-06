@@ -40,3 +40,8 @@ Day 10 :
    
 
     
+    
+Day 11:
+
+  - Studying  cloud optional lesson   
+  - working in my github 
