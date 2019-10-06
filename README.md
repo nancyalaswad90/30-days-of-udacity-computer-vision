@@ -25,6 +25,7 @@ Day 2:
   - Studying many video lectures in Part 1: Introduction to Computer Vision (Progress 26%)
   - working in my github 
 
+![image](https://user-images.githubusercontent.com/36210723/66266904-e2597380-e833-11e9-898a-222d7cc84a36.png)
 
 
 
