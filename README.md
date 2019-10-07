@@ -71,3 +71,12 @@ Day 12:
 
   - Studying  cloud optional lesson   
   - working in my github 
+
+
+Day 13:
+
+  - Studying   Part 3: Advanced Computer Vision & Deep Learning (Progress 91%); Project: Image Captioning
+  - working in Project 2: Image Captioning. I finally understood the CNN Encoder and the RNN Decoder. 
+  - working in my github 
+  
+  
