@@ -54,3 +54,10 @@ Day 11:
 
   - Studying  cloud optional lesson   
   - working in my github 
+  
+
+    
+Day 12:
+
+  - Studying  cloud optional lesson   
+  - working in my github 
