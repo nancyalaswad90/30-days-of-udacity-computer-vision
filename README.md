@@ -36,6 +36,9 @@ Day 3:
   - working in my github 
 
 
+![image](https://user-images.githubusercontent.com/36210723/66348921-52fdae80-e960-11e9-99c5-34dd1189b28c.png)
+
+
 DAY 8 : 
 
   - Continue studying in lesson 5 
