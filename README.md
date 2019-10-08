@@ -81,3 +81,11 @@ Day 13:
   
   
 ![image](https://user-images.githubusercontent.com/36210723/66349245-1b433680-e961-11e9-9e2a-d3c2daa3c7d0.png)
+
+
+
+Day 14:
+
+  - working in Project 2: Image Captioning. I finally understood the CNN Encoder and the RNN Decoder. 
+  - working in my github 
+
