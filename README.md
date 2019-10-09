@@ -89,3 +89,9 @@ Day 14:
   - working in Project 2: Image Captioning. I finally understood the CNN Encoder and the RNN Decoder. 
   - working in my github 
 
+
+
+Day 15:
+
+  - working in Project 2: Image Captioning.  Tuning Hyperparameters 
+  - working in my github 
