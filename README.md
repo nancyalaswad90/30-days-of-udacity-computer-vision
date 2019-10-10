@@ -39,6 +39,16 @@ Day 3:
 ![image](https://user-images.githubusercontent.com/36210723/66348921-52fdae80-e960-11e9-99c5-34dd1189b28c.png)
 
 
+Day 4:
+
+  - Studying many video lectures in Part 1: Introduction to Computer Vision (Progress 81%); Lesson 8: CNN Layers and Feature Visualization (Progress 76%); 22. Visualizing CNNs (Part 2)
+  - 
+  - I filled the form of the #30DaysofUdacity pledge.
+  - working in my github 
+
+
+
+
 DAY 8 : 
 
   - Continue studying in lesson 5 
