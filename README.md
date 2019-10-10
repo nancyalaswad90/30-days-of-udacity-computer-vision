@@ -49,6 +49,15 @@ Day 4:
 ![image](https://user-images.githubusercontent.com/36210723/66532689-e083fe80-eb18-11e9-92f6-bff942e8c34a.png)
 
 
+Day 5:
+
+  - Studying many video lectures in Part 1: Introduction to Computer Vision ((Progress 90%); Project: Facial Keypoint Detection; 3. Project: Facial Keypoint Detection
+  - working in Project 1: Facial Keypoint Detection. So far, my average loss is 0.0011, which is good.
+  - working in my github 
+  
+  
+
+
 
 DAY 8 : 
 
