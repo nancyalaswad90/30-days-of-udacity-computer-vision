@@ -98,3 +98,10 @@ Day 15:
 
 
 ![image](https://user-images.githubusercontent.com/36210723/66445626-1315f480-ea50-11e9-85e1-a2a516e97954.png)
+
+
+
+Day 16:
+
+  - working in Project 2: Image Captioning. Rest my notebook and tuning Hyperparameters again
+  - working in my github 
