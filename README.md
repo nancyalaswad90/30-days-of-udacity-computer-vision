@@ -55,7 +55,7 @@ Day 5:
   - working in Project 1: Facial Keypoint Detection. So far, my average loss is 0.0011, which is good.
   - working in my github 
   
-  
+  ![image](https://user-images.githubusercontent.com/36210723/66532904-c3036480-eb19-11e9-988a-d4a1fd906a0f.png)
 
 
 
