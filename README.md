@@ -58,16 +58,25 @@ Day 5:
   ![image](https://user-images.githubusercontent.com/36210723/66532904-c3036480-eb19-11e9-988a-d4a1fd906a0f.png)
 
 
+DAY 6 : 
 
+  - Continue studying in lesson 8
+  - working in Project 1: Facial Keypoint Detection. 
+  - working in my github 
+  
+  
+  
 DAY 8 : 
 
-  - Continue studying in lesson 5 
-  - working in my github 
+  - working in Project 1: Facial Keypoint Detection. 
+  - working in my github project 
+   - Working on my Github 30-days-of-udacity-computer-vision
+  
 
 
 DAY 9  :
 
-  - Continue studying in lesson 5 
+  - Continue studying in lesson 8 
   - working in my github 
   - working in my LinkedIn profile 
 
