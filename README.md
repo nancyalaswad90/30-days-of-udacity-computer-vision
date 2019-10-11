@@ -76,9 +76,12 @@ DAY 8 :
 
 DAY 9  :
 
-  - Continue studying in lesson 8 
+  - working in Project 1: Facial Keypoint Detection. 
   - working in my github 
   - working in my LinkedIn profile 
+  
+  ![image](https://user-images.githubusercontent.com/36210723/66620155-23f96e00-ebe8-11e9-8cc0-731ee16d10d1.png)
+  
 
 Day 10 :
 
@@ -86,8 +89,7 @@ Day 10 :
    - Submit my LinkedIn Project .
    -  Working on my Github
    
-
-    
+   
     
 Day 11:
 
