@@ -125,3 +125,9 @@ Day 16:
 
   - working in Project 2: Image Captioning. Rest my notebook and tuning Hyperparameters again
   - working in my github 
+
+Day 17:
+
+  - Completed  Project 2: Image Captioning. and submitted it.
+  -  Waiting for review.
+  - working in my github 
