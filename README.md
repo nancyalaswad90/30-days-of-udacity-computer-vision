@@ -63,8 +63,13 @@ DAY 6 :
   - Continue studying in lesson 8
   - working in Project 1: Facial Keypoint Detection. 
   - working in my github 
-  
-  
+
+
+DAY 7 : 
+
+  - working in Project 1: Facial Keypoint Detection. 
+  - working in my github project 
+   - Working on my Github 30-days-of-udacity-computer-vision
   
 DAY 8 : 
 
@@ -93,10 +98,12 @@ Day 10 :
     
 Day 11:
 
+   - Pass my first Project .
   - Studying  cloud optional lesson   
   - working in my github 
   
 
+![image](https://user-images.githubusercontent.com/36210723/66620395-f95be500-ebe8-11e9-9687-1a9821233755.png)
     
 Day 12:
 
