@@ -151,3 +151,14 @@ Day 17:
   - working in my github 
 
 ![image](https://user-images.githubusercontent.com/36210723/66619672-7a65ad00-ebe6-11e9-8f33-1031cd31fe70.png)
+
+
+Day 18:
+
+  - Pass  Project 2: Image Captioning. and submitted it.
+  - Submitted and passed the Project 3 - Landmark Detection & Robot Tracking (SLAM).
+  - Graduated from the Computer Vision nanodegree.
+  - working in my github 
+
+
+
