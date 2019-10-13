@@ -167,6 +167,10 @@ Day 18:
 
 Day 19:
 
+  - Enjoy my graduation from the Computer Vision nanodegree.
   - working in my github 
 
 ![image](https://user-images.githubusercontent.com/36210723/66711849-6499e880-ed9c-11e9-8452-8ddd21c2449f.png)
+
+
+![image](https://user-images.githubusercontent.com/36210723/66711864-927f2d00-ed9c-11e9-8383-d7926474d3b6.png)
