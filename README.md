@@ -174,3 +174,9 @@ Day 19:
 
 
 ![image](https://user-images.githubusercontent.com/36210723/66711864-927f2d00-ed9c-11e9-8383-d7926474d3b6.png)
+
+
+Day 20:
+
+  - working on udemy for more knowledge about Digital Electronic (Logic) ...just completed the course
+  - working in my github 
