@@ -180,3 +180,9 @@ Day 20:
 
   - working on udemy for more knowledge about Digital Electronic (Logic) ...just completed the course
   - working in my github 
+
+
+Day 21:
+
+  - working on Career Portal - Research Your Career Options (Progress 33%)
+  - working in my github 
