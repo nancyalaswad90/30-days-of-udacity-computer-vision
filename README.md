@@ -186,3 +186,9 @@ Day 21:
 
   - working on Career Portal - Research Your Career Options (Progress 33%)
   - working in my github 
+
+
+Day 22:
+
+working on Career Portal - Research Your Career Options (Progress 43%)
+working in my github
