@@ -202,3 +202,9 @@ Day 23:
   - working on Career Portal - Research Your Career Options (Progress 55%)
   - working in my github and upload 2 projects 
 
+
+
+Day 24:
+
+working on Career Portal - Research Your Career Options (Progress 65%)
+working in my github 
