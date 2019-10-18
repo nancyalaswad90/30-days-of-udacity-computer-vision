@@ -206,5 +206,8 @@ Day 23:
 
 Day 24:
 
-working on Career Portal - Research Your Career Options (Progress 65%)
-working in my github 
+  - working on Career Portal - Research Your Career Options (Progress 65%)
+  - working in my github 
+
+
+![image](https://user-images.githubusercontent.com/36210723/67065791-4fe09a80-f178-11e9-83cd-e6d6b871cf9a.png)
