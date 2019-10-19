@@ -211,3 +211,11 @@ Day 24:
 
 
 ![image](https://user-images.githubusercontent.com/36210723/67065791-4fe09a80-f178-11e9-83cd-e6d6b871cf9a.png)
+
+
+
+Day 25:
+
+  - I'm watching all the video lectures of  material Introduction to Programming to apply as mentor 
+  - working in my github 
+
