@@ -219,3 +219,9 @@ Day 25:
   - I'm watching all the video lectures of  material Introduction to Programming to apply as mentor 
   - working in my github 
 
+
+Day 26:
+
+  - Still watching all the video lectures of  material Introduction to Programming to apply as mentor 
+  - working in my github 
+
