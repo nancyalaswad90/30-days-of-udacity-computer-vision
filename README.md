@@ -235,3 +235,6 @@ Day 27:
   - REading Article about (Marketing Channel Attribution with Markov Chains in Python)
 
 https://medium.com/@mortenhegewald/marketing-channel-attribution-using-markov-chains-101-in-python-78fb181ebf1e
+
+
+![image](https://user-images.githubusercontent.com/36210723/67181502-79522e00-f3e5-11e9-83b5-051f1583b986.png)
