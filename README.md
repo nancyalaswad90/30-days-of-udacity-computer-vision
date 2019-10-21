@@ -226,3 +226,12 @@ Day 26:
   - working in my github 
   - share my YouTube video https://youtu.be/iiCbLSkav_Q
 
+
+
+Day 27:
+
+  - Studying the video lectures of Data Analysit Nanodegree to apply work in it as mentor 
+  - working in my github 
+  - REading Article about (Marketing Channel Attribution with Markov Chains in Python)
+
+https://medium.com/@mortenhegewald/marketing-channel-attribution-using-markov-chains-101-in-python-78fb181ebf1e
