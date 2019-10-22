@@ -238,3 +238,13 @@ https://medium.com/@mortenhegewald/marketing-channel-attribution-using-markov-ch
 
 
 ![image](https://user-images.githubusercontent.com/36210723/67181502-79522e00-f3e5-11e9-83b5-051f1583b986.png)
+
+
+
+Day 28:
+
+  - Keep studying the video lectures of Data Analysit Nanodegree to apply work in it as mentor 
+  - working in my github 
+  - REading Article about (How to Get into Data Science — Math Or Coding)
+  
+https://towardsdatascience.com/math-vs-coding-data-science-43e216b4f671
