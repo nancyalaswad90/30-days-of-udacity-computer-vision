@@ -248,3 +248,13 @@ Day 28:
   - REading Article about (How to Get into Data Science — Math Or Coding)
   
 https://towardsdatascience.com/math-vs-coding-data-science-43e216b4f671
+
+
+
+Day 29:
+
+  - Keep studying the video lectures of Data Analysit Nanodegree to apply work in it as mentor 
+  - working in my github 
+  - Taking Coursera course about (Python Data Products for Predictive Analytics) 
+  
+https://www.coursera.org/specializations/python-data-products-for-predictive-analytics
