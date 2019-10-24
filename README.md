@@ -266,6 +266,7 @@ Day 30:
   - Studying another video lectures of Data Analysit Nanodegree to apply work in it as mentor 
   - Schedule an interview for the Intro to Programming Nanodegree programfor Udacity Mentorship program .
   
+![image](https://user-images.githubusercontent.com/36210723/67456305-08a34f80-f639-11e9-91dc-b1b8f364c978.png)
 
   - Taking Coursera course about (Python Data Products for Predictive Analytics) 
   
