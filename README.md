@@ -230,7 +230,7 @@ Day 26:
 
 Day 27:
 
-  - Studying the video lectures of Data Analysit Nanodegree to apply work in it as mentor 
+  - Studying the video lectures of Data Analyst Nanodegree to apply for work in it as mentor 
   - working in my github 
   - REading Article about (Marketing Channel Attribution with Markov Chains in Python)
 
@@ -243,7 +243,7 @@ https://medium.com/@mortenhegewald/marketing-channel-attribution-using-markov-ch
 
 Day 28:
 
-  - Keep studying the video lectures of Data Analysit Nanodegree to apply work in it as mentor 
+  - Keep studying the video lectures of Data Analyst Nanodegree to apply for work in it as mentor 
   - working in my github 
   - REading Article about (How to Get into Data Science — Math Or Coding)
   
@@ -253,7 +253,7 @@ https://towardsdatascience.com/math-vs-coding-data-science-43e216b4f671
 
 Day 29:
 
-  - Keep studying the video lectures of Data Analysit Nanodegree to apply work in it as mentor 
+  - Keep studying the video lectures of Data Analyst Nanodegree to apply for work in it as mentor 
   - working in my github 
   - Taking Coursera course about (Python Data Products for Predictive Analytics) 
   
@@ -263,7 +263,7 @@ https://www.coursera.org/specializations/python-data-products-for-predictive-ana
 
 Day 30:
 
-  - Studying another video lectures of Data Analysit Nanodegree to apply work in it as mentor 
+  - Studying another video lectures of Data Analyst Nanodegree to apply for work in it as mentor 
   - Schedule an interview for the Intro to Programming Nanodegree programfor Udacity Mentorship program .
   
 ![image](https://user-images.githubusercontent.com/36210723/67456305-08a34f80-f639-11e9-91dc-b1b8f364c978.png)
