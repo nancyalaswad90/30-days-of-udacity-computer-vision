@@ -258,3 +258,23 @@ Day 29:
   - Taking Coursera course about (Python Data Products for Predictive Analytics) 
   
 https://www.coursera.org/specializations/python-data-products-for-predictive-analytics
+
+
+
+Day 30:
+
+  - Studying another video lectures of Data Analysit Nanodegree to apply work in it as mentor 
+  - Schedule an interview for the Intro to Programming Nanodegree programfor Udacity Mentorship program .
+  
+
+  - Taking Coursera course about (Python Data Products for Predictive Analytics) 
+  
+https://www.coursera.org/specializations/python-data-products-for-predictive-analytics
+
+
+  - Reading Article about (Is programming a must for applying Data Science?)
+  
+https://medium.com/dataseries/is-programming-a-must-for-applying-data-science-87f4ea0dfc44
+
+
+    - working in my github 
