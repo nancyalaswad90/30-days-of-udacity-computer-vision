@@ -279,3 +279,19 @@ https://medium.com/dataseries/is-programming-a-must-for-applying-data-science-87
 
 
     - working in my github 
+
+
+
+Day 31 :
+
+  - Review video lectures for the Intro to Programming Nanodegree programfor Udacity Mentorship program .
+  
+  - Taking Coursera course about (Python Data Products for Predictive Analytics) 
+  
+https://www.coursera.org/specializations/python-data-products-for-predictive-analytics
+
+  - Reading Article about (A Machine Learning Approach — Building a Hotel Recommendation Engine)
+  
+https://towardsdatascience.com/a-machine-learning-approach-building-a-hotel-recommendation-engine-6812bfd53f50
+
+    - working in my github 
