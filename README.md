@@ -304,3 +304,11 @@ https://www.coursera.org/specializations/python-data-products-for-predictive-ana
 https://towardsdatascience.com/a-machine-learning-approach-building-a-hotel-recommendation-engine-6812bfd53f50
 
     - working in my github 
+
+
+Day 32 :
+
+Taking Coursera course about (Python Data Products for Predictive Analytics)
+https://www.coursera.org/specializations/python-data-products-for-predictive-analytics
+
+- working in my github 
