@@ -39,6 +39,15 @@ Day 3:
 ![image](https://user-images.githubusercontent.com/36210723/66348921-52fdae80-e960-11e9-99c5-34dd1189b28c.png)
 
 
+Day 32 :
+
+
+  - Taking Coursera course about (Python Data Products for Predictive Analytics) 
+  
+https://www.coursera.org/specializations/python-data-products-for-predictive-analytics
+
+    - working in my github 
+
 Day 4:
 
   - Studying many video lectures in Part 1: Introduction to Computer Vision (Progress 81%); Lesson 8: CNN Layers and Feature Visualization (Progress 76%); 22. Visualizing CNNs (Part 2)
