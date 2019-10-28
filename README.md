@@ -312,3 +312,20 @@ Taking Coursera course about (Python Data Products for Predictive Analytics)
 https://www.coursera.org/specializations/python-data-products-for-predictive-analytics
 
 - working in my github 
+
+
+
+
+
+Day 33 :
+ 
+  - Continue studing Coursera course about (Python Data Products for Predictive Analytics) 
+  
+https://www.coursera.org/specializations/python-data-products-for-predictive-analytics
+
+  - Register for live webinars and events taking place throughout One Million Arab Coders Initiative  (HTML5 Semantic Elements)
+  
+https://macdiscussions.udacity.com/t/front-end-track-html5-semantic-elements/297640
+
+   - working in my github 
+   - I encourage in this challenge to @Juan CarlosK @Jacqueline Susan M. @Mohamed Choukri B.
