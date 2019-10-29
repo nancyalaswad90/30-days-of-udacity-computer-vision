@@ -343,6 +343,7 @@ https://www.coursera.org/specializations/python-data-products-for-predictive-ana
 https://macdiscussions.udacity.com/t/front-end-track-html5-semantic-elements/297640
 
 
+![image](https://user-images.githubusercontent.com/36210723/67786285-4c51eb00-fa77-11e9-88db-8e2381d199d5.png)
 
    - working in my github 
    - I encourage in this challenge to @Juan CarlosK @Jacqueline Susan M. @Mohamed Choukri B.
