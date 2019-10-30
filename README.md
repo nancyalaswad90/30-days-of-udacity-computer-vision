@@ -347,3 +347,18 @@ https://macdiscussions.udacity.com/t/front-end-track-html5-semantic-elements/297
 
    - working in my github 
    - I encourage in this challenge to @Juan CarlosK @Jacqueline Susan M. @Mohamed Choukri B.
+
+
+
+
+Day 35:
+ 
+  - Starting course about (Blockchain Developer Bootcamp) 
+  
+        https://learn.consensys.net/index
+
+
+
+   - Working in my github 
+   - I encourage in this challenge to @Juan CarlosK @Jacqueline Susan M. @Mohamed Choukri B.
+
