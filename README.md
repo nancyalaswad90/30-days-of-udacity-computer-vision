@@ -400,7 +400,7 @@ Day 37:
 
 Day 38:
  
-  - Stadying course about (Blockchain Developer Bootcamp) 
+  - Stadying course about (Blockchain Developer Bootcamp) ( update my progress to 300 piont )
   
         https://learn.consensys.net/index
 
