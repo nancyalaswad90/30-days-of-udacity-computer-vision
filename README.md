@@ -395,3 +395,16 @@ Day 37:
   - Working in my github 
 
   - I encourage in this challenge to @Juan CarlosK @Jacqueline Susan M. @Mohamed Choukri B.
+
+
+
+Day 38:
+ 
+  - Stadying course about (Blockchain Developer Bootcamp) 
+  
+        https://learn.consensys.net/index
+
+
+  - Working in my github 
+
+  - I encourage in this challenge to @Juan CarlosK @Jacqueline Susan M. @Mohamed Choukri B.
