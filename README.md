@@ -409,3 +409,17 @@ Day 38:
   - Working in my github 
 
   - I encourage in this challenge to @Juan CarlosK @Jacqueline Susan M. @Mohamed Choukri B.
+
+
+
+Day 39:
+ 
+  - Stadying course about (Blockchain Developer Bootcamp) ( update my progress to 500 piont )
+  
+        https://learn.consensys.net/index
+
+![image](https://user-images.githubusercontent.com/36210723/68081421-5462af80-fe16-11e9-8dad-1e8e0cf354f3.png)
+
+  - Working in my github 
+
+  - I encourage in this challenge to @Juan CarlosK @Jacqueline Susan M. @Mohamed Choukri B.
