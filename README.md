@@ -426,14 +426,16 @@ Day 39:
 
 
 Day 40:
- 
+
   - Stadying course about (Blockchain Developer Bootcamp) ( update my progress to 600 piont )
-  
-        https://learn.consensys.net/index
 
-  - Working in my github 
+https://learn.consensys.net/index
 
-  - I encourage in this challenge to @Juan CarlosK @Jacqueline Susan M. @Mohamed Choukri B.
+![image](https://user-images.githubusercontent.com/36210723/68203482-90d90b80-ffce-11e9-92d1-aa67faf51e7b.png)
+
+ - Working in my github
+
+ - I encourage in this challenge to @Juan CarlosK @Jacqueline Susan M. @Mohamed Choukri B.
 
 
 
