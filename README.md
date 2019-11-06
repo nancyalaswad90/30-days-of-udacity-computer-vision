@@ -308,12 +308,10 @@ https://towardsdatascience.com/a-machine-learning-approach-building-a-hotel-reco
 
 Day 32 :
 
-Taking Coursera course about (Python Data Products for Predictive Analytics)
+   - Taking Coursera course about (Python Data Products for Predictive Analytics)
 https://www.coursera.org/specializations/python-data-products-for-predictive-analytics
 
-- working in my github 
-
-
+   -  working in my github 
 
 
 
@@ -444,6 +442,24 @@ Day 41:
   - Stadying course about (Blockchain Developer Bootcamp) ( update my progress to 750 piont )
   
         https://learn.consensys.net/index
+
+  - Working in my github 
+
+  - I encourage in this challenge to @Juan CarlosK @Jacqueline Susan M. @Mohamed Choukri B.
+
+
+
+
+Day 42:
+ 
+  - Stadying course about (Blockchain Developer Bootcamp) ( update my progress to 800 piont )
+  
+        https://learn.consensys.net/index
+      
+      
+   
+   - Scedual Udacity Interview for 	Thu Nov 28, 2019 4am – 5am  for Applying to mentor (Introduction to Programming )
+   
 
   - Working in my github 
 
