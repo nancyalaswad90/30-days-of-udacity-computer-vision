@@ -464,3 +464,17 @@ Day 42:
   - Working in my github 
 
   - I encourage in this challenge to @Juan CarlosK @Jacqueline Susan M. @Mohamed Choukri B.
+
+
+
+
+
+Day 43:
+ 
+  - Stadying course about (Blockchain Developer Bootcamp) ( update my progress to 850 piont )
+  
+        https://learn.consensys.net/index
+
+  - Working in my github 
+
+  - I encourage in this challenge to @Juan CarlosK @Jacqueline Susan M. @Mohamed Choukri B.
