@@ -515,3 +515,18 @@ Day 46:
   - Working in my github 
 
   - I encourage in this challenge to @Juan CarlosK @Jacqueline Susan M. @Mohamed Choukri B.
+
+
+Day 47:
+
+- Stadying course about (Blockchain Developer Bootcamp) ( update my progress to 1120 piont )
+  
+        https://learn.consensys.net/index
+
+  - I will stop logging my daily activities in the log: https://github.com/nancyalaswad90/30-days-of-udacity-computer-vision  Why? 
+
+     Because I already received my badge for completing the #30DaysofUdacity. But I will continue logging my daily activities for the (Nancy-Daily-Progress-Knowledge ) in the following log:https://github.com/nancyalaswad90/Nancy-Daily-Progress-Knowledge
+  
+  - Working in my github 
+
+  - I encourage in this challenge to @Juan CarlosK @Jacqueline Susan M. @Mohamed Choukri B.
